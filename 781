@@ -1,4 +1,4 @@
-# $FreeBSD$
+# $FreeBSD$ss
 # Please keep this file sorted by GID!
 # Please pick an empty slot when available and also consider base values from
 # /usr/src/etc/group
